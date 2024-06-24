@@ -9,7 +9,7 @@ args = parser.parse_args()
 epochs = args.epochs
 
 # Specify the directory and filename
-directory = "output/"
+directory = "/cnvrg/output/"
 filename = f"out_{epochs}.txt"
 
 # Create the full path
